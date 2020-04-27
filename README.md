@@ -25,15 +25,6 @@ Where {input} can be left blank to see all possible experiment configs else expe
 
 ## Experiment details 
 
-### Experiment index and details
-
-index,A,B,C,FitnessA,stationary
-1,50,50,50,5,true
-2,50,50,50,15,true
-3,20,65,65,5,true
-4,20,65,65,15,true
-
-
 ### SimulationGraphic.png
 - Yellow squares - resources
 - Black dots - agenst
