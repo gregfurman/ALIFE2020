@@ -11,4 +11,6 @@ mvn package
 cd target
 mv Research-1.0-SNAPSHOT-jar-with-dependencies.jar ../data/Simulator.jar
 
+# Creates all the necessary data directories (1-10) for the experiments
 
+for i in {1..10}; do mkdir ./data/data_$i; done
