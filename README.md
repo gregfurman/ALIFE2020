@@ -1,4 +1,4 @@
-# Language Transmission in Artificial Creole Evolution
+# Lexical transmission  in Artificial Creole Evolution
 
 ## Abstract
 
